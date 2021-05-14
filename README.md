@@ -6,4 +6,5 @@ all by Josiah Willard Gibbs.
 
 LaTeX typeset sources were originally prepared by W. Craig Carter and Michael A.
 Gibson, whose repo I unfortunately can no longer locate. This current version contains some
-corrections to source, equations, etc., but retains their original LaTeX class file.
+small corrections to equation numbers, float (figure) placement, and text, compiled using the LaTeX memoir class together with a new title page,
+but otherwise retains Carter and Gibson's original LaTeX class file and figures.
